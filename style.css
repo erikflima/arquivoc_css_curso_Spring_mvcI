@@ -665,3 +665,7 @@ h3,h1{
 .breadcrumbs {
     display: block;
 }
+
+.formularioDoCarrinho-finalizar-botao:hover {
+  background-color: #E4A830;
+}
