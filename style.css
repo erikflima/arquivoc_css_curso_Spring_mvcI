@@ -669,3 +669,18 @@ h3,h1{
 .formularioDoCarrinho-finalizar-botao:hover {
   background-color: #E4A830;
 }
+
+.formularioDoCarrinho-finalizar-botao {
+  font-family: "open-sans", sans-serif;
+  font-size: 1em;
+  font-weight: 800;
+  color: #FFF;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0 9px 0 2px;
+  border-radius: 2px;
+  display: block;
+  background-color: #fac459;
+  border: none;
+  cursor: pointer;
+}
